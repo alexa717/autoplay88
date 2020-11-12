@@ -1,6 +1,6 @@
 # autoplay88
 fgh
 
-<iframe width="560" height="315" src="https://frontend.vh.yandex.ru/player/vorBL9rkb3zU?from=partner&mute=1&autoplay=1&branding=0" allow="autoplay; fullscreen; accelerometer; gyroscope; picture-in-picture; encrypted-media" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<iframe src="https://frontend.vh.yandex.ru/player/v7_ZjZ-9aSXI?from=partner&mute=1&play_on_visible='true'&autoplay=0&branding=0" class="yandex-efir-embed__iframe" frameBorder="0" allowfullscreen=""></iframe>
 
 hi
